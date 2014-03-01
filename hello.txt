@@ -1,1 +1,3 @@
-Hello from john
+Greetings from john
+
+Goodbye
